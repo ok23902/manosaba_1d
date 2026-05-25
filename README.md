@@ -4,7 +4,8 @@
 
 ## 必要なもの
 - Python 3.10以上
-- DeepSeek、ChatGPT、Claude、ローカルLLMのAPIキー（https://platform.deepseek.com）
+- DeepSeek、ChatGPT、Claude、ローカルLLMのAPIキー
+※参考：DeepSeekのAPIサイト→https://platform.deepseek.com
 ※DeepSeek以外で試してないのでベータ機能です。ご注意ください。
 
 ## 動かし方
